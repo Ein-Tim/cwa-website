@@ -25,22 +25,6 @@
         "headline": {
             "title": "Neuste Blog-Beiträge"
         },
-        "boxes": [
-            {
-                "image": {
-                    "url": "/assets/img/faq.svg",
-                    "title": "Häufig gestellte Fragen zur Corona-Warn-App"
-                },
-                "title": "Noch Fragen?",
-                "links": [
-                    {
-                        "url": "/de/faq/",
-                        "title": "Hier geht‘s zu den FAQs",
-                        "class": "btn-link btn-link-icon btn-link-icon_right"
-                    }
-                ]
-            }
-        ],
         "slider": {
             "target": "blog",
             "button": {
