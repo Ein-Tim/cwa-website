@@ -2,12 +2,12 @@
     "section-main": {
         "headline": {
             "titlecaption": "Corona-Warn-App Open-Source-Projekt",
-            "title": "Helft uns, die Corona-Warn-App zu verbessern"
+            "title": "Danke, dass ihr die Corona-Warn-App genutzt habt!"
         },
         "content": {
-            "text": "Die Corona-Warn-App ist eine App, die hilft, Infektionsketten des SARS-CoV-2 (COVID-19-Auslöser) in Deutschland nachzuverfolgen und zu unterbrechen. Die App basiert auf Technologien mit einem dezentralisierten Ansatz und informiert Personen, wenn sie mit einer infizierten Person in Kontakt standen. Transparenz ist von entscheidender Bedeutung, um die Bevölkerung zu schützen und die Akzeptanz zu erhöhen.",
+            "text": "Die Corona-Warn-App war eine App, die half, Infektionsketten des SARS-CoV-2 (COVID-19-Auslöser) in Deutschland nachzuverfolgen und zu unterbrechen. Die App basierte auf Technologien mit einem dezentralisierten Ansatz und informierte Personen, wenn sie mit einer infizierten Person in Kontakt standen. Transparenz ist von entscheidender Bedeutung, um die Bevölkerung zu schützen und die Akzeptanz zu erhöhen, deswegen steht diese Website auch nach der Einstellung der App am xx.xx.xxxx noch zur Verfügung.",
             "button": {
-                "title": "Mach mit auf GitHub",
+                "title": "Projekt auf GitHub",
                 "url": "https://github.com/corona-warn-app",
                 "icon": "github",
                 "external": true,
