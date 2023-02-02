@@ -31,58 +31,6 @@
     </div>
 </section>
 
-<section class="section_bg-white comment" {{#if page-contents.section-works-best.id}}
-    id="{{page-contents.section-works-best.id}}" {{/if}}>
-    <div class="container">
-        {{#if page-contents.section-works-best}}
-        <div class="row align-items-center">
-            <div class="col col-12 col-md-6 image-overflow-container">
-                <img class="image-overflow-spacer" src="/assets/img/spacer.gif"
-                    alt="" />
-
-                <picture class="image-overflow image-overflow_left">
-                    <img class="image-overflow image-overflow_left"
-                        src="{{page-contents.section-works-best.image.url}}"
-                        title="{{page-contents.section-works-best.image.title}}"
-                        alt=""
-                        />
-                </picture>
-
-            </div>
-            <div class="col col-12 col-md-6 text-left">
-                {{> headline-component
-                title=page-contents.section-works-best.headline.title}}
-                {{> text-component
-                textblock=page-contents.section-works-best.headline.textblock
-                button=page-contents.section-works-best.headline.button}}
-            </div>
-        </div>
-        {{/if}}
-    </div>
-</section>
-
-<section class="comment" {{#if page-contents.section-image-ticker.id}}
-    id="{{page-contents.section-image-ticker.id}}" {{/if}}>
-    <div class="container">
-        {{#if page-contents.section-image-ticker.headline}}
-        <div class="text-center">
-            {{> headline-component page-contents.section-image-ticker.headline}}
-        </div>
-        {{/if}}
-        {{#if page-contents.section-image-ticker.image-ticker}}
-        <ol class="list">
-        {{#each page-contents.section-image-ticker.image-ticker}}
-            <li class="list-item">
-                <div class="row align-items-center">
-                    {{#if image}}{{> image-ticker this=.
-                    text-cls='text-block_indented'}}{{/if}}
-                </div>
-            </li>
-        {{/each }}
-        </ol>
-        {{/if}}
-    </div>
-</section>
 <section data-e2e="blog-slider" class="section_bg-gradient section_bg-skew comment" {{#if
     page-contents.section-boxes.id}} id="{{page-contents.section-boxes.id}}"
     {{/if}}>
