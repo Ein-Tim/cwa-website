@@ -12,21 +12,7 @@
                 "icon": "github",
                 "external": true,
                 "class": "btn-secondary mr-3 my-2"
-            },
-            "links": [
-                {
-                    "title": "Funktionshinweise",
-                    "url": "#howto"
-                },
-                {
-                    "title": "Datenschutz & Sicherheit",
-                    "url": "#privacy"
-                },
-                {
-                    "title": "Unsere Partner",
-                    "url": "#partners"
-                }
-            ]
+            }
         },
         "image": {
             "url": "/assets/img/app-mockup@2x.png",
@@ -34,78 +20,6 @@
             "title": "Corona-Warn-App",
             "alt": "Corona-Warn-App Smartphone"
         }
-    },
-    "section-works-best": {
-        "id": "howto",
-        "image": {
-            "url": "/assets/img/community.svg",
-            "title": "Community",
-            "alt": "So funktioniert die Corona-Warn-App am besten"
-        },
-        "headline": {
-            "title": "So funktioniert die App am besten",
-            "textblock": [
-                "Das RKI als Herausgeber der App und das Bundesministerium für Gesundheit prüfen gemeinsam mit Deutsche Telekom und SAP stetig mögliche Weiterentwicklungen sowie die eingehenden Weiterentwicklungsvorschläge. Hierunter fällt auch, ob weitere Informationen in die App integriert werden können, beispielsweise zum aktuellen Pandemiegeschehen. Dafür werden wir die Hinweise, die wir über die verschiedenen Kanäle erhalten, weiterhin intensiv in unseren Entwicklungsprozess einbeziehen. Hier haben wir die wichtigsten Hinweise für die Nutzung der App kurz zusammengefasst:",
-                "<ol><li>Aktuelle Version der App laden (iOS: [ios.current-app-version] bzw. Android: [android.current-app-version])</li><li>Betriebssysteme aktuell halten (mindestens iOS [ios.minimum-required-os-version] oder iOS 13.5 abhängig von Ihrem iPhone Modell oder mindestens Android [android.minimum-required-os-version] mit aktuellen Google Play-Diensten)</li><li><a href='faq/results/#background_updates'>Hintergrundaktualisierung immer einschalten und kontrollieren</a></li><li>Sicherheitshalber die App täglich einmal öffnen</li></ol>",
-                "Wir empfehlen grundsätzlich auf ausreichende Stromversorgung zu achten.",
-                "Weitere Informationen haben wir auf der Seite <a href='faq/'>Häufig gestellte Fragen zur Corona-Warn-App</a> zusammengestellt."
-            ]
-        }
-    },
-    "section-image-ticker": {
-        "headline": {
-            "title": "Wie funktioniert die App?"
-        },
-        "image-ticker": [
-            {
-                "index": "01.",
-                "image": {
-                    "url": "/assets/img/how-it-works-1.svg",
-                    "alt": ""
-                },
-                "title": "IDs in der Nähe sammeln",
-                "text": "Das Exposure Notification System (von Apple und Google) auf einem mobilen Gerät sendet einen regelmäßig wechselnden Code (sogenannte Rolling Proximity IDs) und sucht gleichzeitig mithilfe von Bluetooth Low Energy nach IDs anderer Smartphones und speichert die IDs lokal. Die IDs sind nur für 10 bis 20 Minuten gültig und werden kryptografisch von temporären Schlüsseln abgeleitet, die sich alle 24 Stunden ändern.",
-                "button": {
-                    "title": "Zu kompliziert? Hier gibt es ein einfaches Erklärvideo.",
-                    "url": "https://www.bundesregierung.de/breg-de/themen/corona-warn-app/corona-warn-app-erklaerfilm-1758828",
-                    "external": true
-                }
-            },
-            {
-                "index": "02.",
-                "image": {
-                    "url": "/assets/img/how-it-works-2.svg",
-                    "right": true,
-                    "alt": ""
-                },
-                "title": "Testergebnis von Personen mit Symptomen mitteilen (optional)",
-                "text": "Wenn das jeweilige Labor den elektronischen Prozess unterstützt, können getestete Personen mit dem QR-Code, den sie während des Tests erhalten haben, ihre Ergebnisse abrufen."
-            },
-            {
-                "index": "03.",
-                "image": {
-                    "url": "/assets/img/how-it-works-3.svg",
-                    "alt": ""
-                },
-                "title": "Liste von Schlüsseln der als infiziert gemeldeten Personen verteilen",
-                "text": "Im Falle eines positiven Testergebnisses werden Personen gebeten, ihre temporären Schlüssel der letzten 14 Tage auf den Server hochzuladen. Um Missbrauch zu verhindern, verifiziert das Backend der Corona-Warn-App zuerst das positive Testergebnis. Bei einer Bestätigung fügt der Server die temporären Schlüssel in eine Liste ein, die regelmäßig an alle Apps gesendet wird."
-            },
-            {
-                "index": "04.",
-                "image": {
-                    "url": "/assets/img/how-it-works-4.svg",
-                    "right": true,
-                    "alt": ""
-                },
-                "title": "Prüfung auf Kontakt mit Personen, die sich als infiziert gemeldet haben",
-                "text": "Nachdem ein mobiles Gerät die Liste aller vorhandenen Schlüssel der Personen heruntergeladen hat, die positiv getestet wurden, leitet das Exposure Notification System die jeweiligen IDs ab und prüft lokal, ob diese den lokal gesammelten Rolling Proximity Identifiern entsprechen. Im Kontaktfall wird das Risiko eingeschätzt und die Person erhält entsprechende Handlungsanweisungen.",
-                "button": {
-                    "title": "Weitere Infos im Scoping-Dokument",
-                    "url": "https://github.com/corona-warn-app/cwa-documentation/blob/main/translations/scoping_document.de.md",
-                    "external": true
-                }
-            }
-        ]
     },
     "section-boxes": {
         "headline": {
@@ -338,35 +252,6 @@
                     }
                 ]
             }
-        },
-        "content": {
-            "close-btn": {
-                "title": "App Dialog schließen"
-            },
-            "icon-list": [
-                {
-                    "url": "https://apps.apple.com/de/app/corona-warn-app/id1512595757",
-                    "icon-url": "/assets/img/App_Store_Badge_DE.svg",
-                    "title": "Laden Sie die Corona-Warn-App aus dem Apple App Store",
-                    "external": true
-                },
-                {
-                    "url": "https://play.google.com/store/apps/details?id=de.rki.coronawarnapp",
-                    "icon-url": "/assets/img/google-play-badge-DE.svg",
-                    "title": "Laden Sie die Corona-Warn-App aus dem Google Play Store",
-                    "external": true
-                }
-            ],
-            "headline": {
-                "title": "App herunterladen!",
-                "text": "Jetzt zum Download verfügbar im <span class='nobr'>Apple App Store</span> und auf <span class='nobr'>Google Play</span>."
-            }
-        }
-    },
-    "section-soon-available": {
-        "headline": {
-            "titlecaption": "Stay tuned!",
-            "title": "Die Corona-Warn-App steht bald zum Download bereit."
         }
     }
 }
