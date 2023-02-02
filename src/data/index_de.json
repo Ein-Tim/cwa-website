@@ -23,16 +23,9 @@
     },
     "section-boxes": {
         "headline": {
-            "title": "Bleib auf dem Laufenden!"
+            "title": "Neuste Blog-Beiträge"
         },
         "boxes": [
-            {
-                "image": {
-                    "url": "/assets/img/news-blog.svg"
-                },
-                "titlecaption": "Stay tuned!",
-                "title": "Corona-Warn-App Open-Source-Blog in Kürze verfügbar"
-            },
             {
                 "image": {
                     "url": "/assets/img/faq.svg",
@@ -63,12 +56,12 @@
             "title": "Beispiel Quellcode"
         },
         "headline": {
-            "title": "Mach mit beim Open-Source-Projekt!",
+            "title": "Schau dir den Quellcode der App an!",
             "textblock": [
-                "Wenn Du an dem Projekt mitarbeiten möchtest, kannst Du zu GitHub wechseln und sofort loslegen. Hier kannst Du Dir auch die <a href='https://github.com/corona-warn-app/cwa-documentation' target='_blank' rel='noopener noreferrer'>Dokumentation</a> durchlesen, den <a href='https://github.com/corona-warn-app/cwa-documentation/blob/main/CODE_OF_CONDUCT.md' target='_blank' rel='noopener noreferrer'>Code of Conduct</a> einsehen und mehr darüber erfahren, wie Du in der <a href='/de/community/'>Community</a> mitarbeiten kannst."
+                "Da das Projekt nach dem Open-Source-Prinzip entwickelt wurde, kannst du dir den Quellcode der App jederzeit auf GitHub ansehen. Dort kannst du dir auch die <a href='https://github.com/corona-warn-app/cwa-documentation' target='_blank' rel='noopener noreferrer'>Dokumentation</a> durchlesen und dir ansehen, wie das Projektteam die App gemeinsam mit der Community entwickelt hat."
             ],
             "button": {
-                "title": "Mach mit auf GitHub",
+                "title": "Projekt auf GitHub",
                 "url": "https://github.com/corona-warn-app/",
                 "icon": "github",
                 "external": true
@@ -164,7 +157,7 @@
         "id": "partners",
         "headline": {
             "title": "Unsere Partnerinnen und Partner",
-            "text": "Anfang Mai 2020 hat die Bundesregierung SAP und die Deutsche-Telekom-Tochter T-Systems gebeten, die offizielle Corona-Warn-App für Deutschland zu entwickeln. Die App soll nach dem Open-Source-Prinzip entwickelt werden und auf einem dezentralen Ansatz basieren. Folgende Partner unterstützen die Entwicklung der App, in die auch die globale Open-Source-Community eingebunden ist:"
+            "text": "Anfang Mai 2020 hat die Bundesregierung SAP und die Deutsche-Telekom-Tochter T-Systems gebeten, die offizielle Corona-Warn-App für Deutschland zu entwickeln. Die App wurde nach dem Open-Source-Prinzip entwickelt und basierte auf einem dezentralen Ansatz. Folgende Partner unterstützten die Entwicklung der App, in die auch die globale Open-Source-Community eingebunden wurde:"
         },
         "icon-list": [
             {
@@ -230,10 +223,10 @@
     },
     "section-join-project": {
         "headline": {
-            "title": "Mach mit beim Open-Source-Projekt!",
+            "title": "Schau dir den Quellcode der App an!",
             "button": {
                 "url": "https://github.com/corona-warn-app",
-                "title": "GitHub aufrufen",
+                "title": "Projekt auf GitHub",
                 "external": true,
                 "icon": "github"
             }
@@ -244,7 +237,7 @@
                 "title": ""
             },
             "content": {
-                "title": "Mehr Fragen?",
+                "title": "Noch Fragen?",
                 "links": [
                     {
                         "title": "Antworten in den FAQs",
