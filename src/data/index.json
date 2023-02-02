@@ -22,28 +22,12 @@
     },
     "section-boxes": {
         "headline": {
-            "title": "Stay up to date!"
+            "title": "Latest blog posts"
         },
-        "boxes": [
-            {
-                "image": {
-                    "url": "/assets/img/faq.svg",
-                    "title": "Frequently Asked Questions about the Corona-Warn-App"
-                },
-                "title": "More Questions?",
-                "links": [
-                    {
-                        "url": "/en/faq/",
-                        "title": "Frequently Asked Questions about the Corona-Warn-App",
-                        "class": "btn-link btn-link-icon btn-link-icon_right"
-                    }
-                ]
-            }
-        ],
         "slider": {
             "target": "blog",
             "button": {
-                "title": "Newest blog posts",
+                "title": "Read our blog posts",
                 "url": "/en/blog/"
             },
             "amount": 3
