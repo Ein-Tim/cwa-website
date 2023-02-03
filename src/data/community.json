@@ -1,18 +1,16 @@
 {
     "section-main": {
         "headline": {
-            "title": "Get Started",
+            "title": "The community of the Corona-Warn-App",
             "textblock": [
-                "Welcome to the Corona-Warn-App community!",
-                "If you are looking for information on how to join us, you have come to the right place. Read on to find out how you can get involved and contribute to Corona-Warn-App code and documentation.",
-                "You can also <a href='#socialmedia'>follow us on Twitter and Instagram</a>, catch up on the latest developments and chat with other followers.",
-                "Let's get started!"
+                "The community of the Corona-Warn-App has been involved in the development of the CWA project from the very beginning until the app was discontinued.",
+                "However, the community didn't just watch, but also helped heavily and thus led to the apps success! Thanks to everyone who participated, the next paragraph is for you!"
             ]
         },
         "content": {
             "headline": {
-                "title": "Contributing",
-                "text": "Anyone can become a member of the project’s community. We encourage everyone interested to contribute and become part of our developer community. There are different ways for you to get involved."
+                "title": "#CWACommunity",
+                "text": "Dear community members, thank you for your support in the development of the Corona-Warn-App! You, together with the project team, have accomplished a lot and always delivered the best for all users of the app!"
             },
             "simple-list": {
                 "image": {
@@ -20,110 +18,66 @@
                     "right": true,
                     "alt": ""
                 },
-                "title": "Contribution rules",
-                "text": "All members of the project community must abide by the Contributor Covenant, version 2.0. Only by respecting each other can we develop a productive, collaborative community. For our specific guidelines, read the <a href='https://github.com/corona-warn-app/cwa-documentation/blob/main/CODE_OF_CONDUCT.md' target='_blank' rel='noopener noreferrer' title=''>Code of Conduct</a>."
+                "title": "Your stories",
+                "text": "Placeholder. Here it would be really cool if the community can provide texts and these would then appear here, together with the names of the community members. I could take care of curating!"
             }
         }
     },
     "section-contribute-listing": {
         "headline": {
-            "title": "Get involved",
-            "subtitle": "You can submit a pull request in GitHub",
-            "text": "As a general rule for any contribution: please make sure you provide as much information as you can to ease collaboration and follow the instructions noted in the CONTRIBUTING.md file of the repository you plan to contribute to. When creating a pull request, follow the Pull Request Checklist available in the respective CONTRIBUTING.md to ensure reviews can happen promptly. Also, if you plan to do something more involved, please reach out to us and send an <a href='corona-warn-app.opensource...sap...com' title='' class='email'>email</a> first. This will avoid unnecessary work and give you and us a good deal of inspiration."
+            "title": "The work of the Community",
+            "text": "The community has taken on a variety of tasks in the development of the project. Community members have, for example, helped in the following areas of development."
         },
         "content": {
-            "subtitle": "If you are contributing for the first time, follow these guidelines:",
             "feature-list": [{
                 "image": {
                     "title": "",
                     "url": "/assets/img/icons/issue.svg",
                     "alt": ""
                 },
-                "title": "To work on an issue",
-                "text": "Claim it first by commenting on the GitHub issue that you want to work on."
+                "title": "Work on issues",
+                "text": "In so-called 'Issues', errors in the app or suggestions for improvement were reported by the community on the development platform GitHub."
             },{
                 "image": {
                     "title": "",
                     "url": "/assets/img/icons/questions.svg",
                     "alt": ""
                 },
-                "title": "To ask a question",
-                "text": "To clarify an issue, simply comment on it, and one of the maintainers will respond."
+                "title": "Ask questions",
+                "text": "Sometimes, despite the documentation and FAQs, questions remained unanswered. The community could then head to GitHub and easily ask these questions and received answers from the project team."
             },{
                 "image": {
                     "title": "",
                     "url": "/assets/img/icons/documentation.svg",
                     "alt": ""
                 },
-                "title": "To contribute code or documentation",
-                "text": "In order to fix a bug or to implement a new feature, contributions must be licensed under the <a href='https://github.com/corona-warn-app/cwa-documentation/blob/main/LICENSE' target='_blank' rel='noopener noreferrer'>Apache 2.0 License</a>."
-            },{
-                "image": {
-                    "title": "",
-                    "url": "/assets/img/icons/improvement.svg",
-                    "alt": ""
-                },
-                "title": "To report a trivial fix or improvement",
-                "text": "Create a pull request, addressing a suitable code owner of the particular repository (see for example the documentation repo's <a href='https://github.com/corona-warn-app/cwa-documentation/blob/main/CODEOWNERS' target='_blank' rel='noopener noreferrer' title=''>Code Owners</a>)."
-            },{
-                "image": {
-                    "title": "",
-                    "url": "/assets/img/icons/security.svg",
-                    "alt": ""
-                },
-                "title": "To report a significant security risk",
-                "text": "Make sure to follow the process outlined in the Security Policy that is accessible through the Security tab in each dev repository."
-            }]
-        },
-        "text": "For any of the above, please make sure you provide as much info as you can. Please also make sure to consult the dedicated contribution guidelines of the respective repository.",
-        "box": {
-            "class": "wide",
-            "image": {
-                "url": "/assets/img/icons/improvement.svg",
-                "title": "",
-                "alt": ""
-            },
-            "content": {
-                "title": "Want to give technically detailed feedback?",
-                "text": "In the <a href='../faq' target='_blank'>FAQ</a> you will find answers to frequently asked questions as well as information on how to contact us with your particular request."
+                "title": "Contribute code",
+                "text": "The community, along with the project team, has been working to fix known bugs & implement new features!"
             }
-        },
-        "box2": {
-            "class": "wide",
-            "image": {
-                "url": "/assets/img/ideas.svg",
-                "title": "",
-                "alt": ""
-            },
-            "content": {
-                "title": "Want to do more?",
-                "text": "In case you want to be involved even more, please send us an <a href='corona-warn-app.opensource...sap...com' target='_blank' class='email' rel='noopener noreferrer' title=''>email</a>. We're happy to see new ideas coming in!"
-            }
-        }
-    },
-    "section-start-contribute": {
-        "headline": {
-            "title": "Start contributing!",
-            "button": {
-                "title": "Take me to GitHub",
-                "url": "https://github.com/corona-warn-app",
-                "icon": "github",
-                "external": true
-            }
+            ]
         }
     },
     "section-social-media": {
         "title": "Social Media",
         "anchor": "socialmedia",
-        "textblock": ["You can also find the most important information about the Corona-Warn-App, its features and its development on social media. Note that these accounts only publish German content."],
+        "textblock": ["The most important information about the Corona-Warn-App, its features and its development was also available on social media."],
         "socialmedia": [{
             "title": "Twitter",
-            "textblock": ["The Corona-Warn-App has its own <a href='https://twitter.com/coronawarnapp' target='_blank' rel='noopener noreferrer'>Twitter-Account</a>. On Twitter, we regularly inform you about key figures, updates and new features. You can also participate in polls and discuss with other followers about the Corona-Warn-App.",
-            "Follow the account, become a part of the Twitter community and help us to improve the app and make it better known."]
+            "textblock": ["The Corona-Warn-App had its own <a href='https://twitter.com/coronawarnapp' target='_blank' rel='noopener noreferrer'>Twitter-Account</a>. There, the community was regularly informed about key figures, updates and new features of the app."]
         },
         {
             "title": "Instagram",
-            "textblock": ["At <a href='https://www.instagram.com/rki_fuer_euch/' target='_blank' rel='noopener noreferrer'>RKI für Euch</a> on Instagram we share interesting facts about the Robert Koch Institute, about the development of the pandemic and about the Corona-Warn-App."]
+            "textblock": ["The instagram account <a href='https://www.instagram.com/rki_fuer_euch/' target='_blank' rel='noopener noreferrer'>RKI für Euch</a> informed among other topics also about the Corona-Warn-App."]
         }]
+    },
+    "section-start-contribute": {
+        "headline": {
+            "button": {
+                "title": "GitHub project",
+                "url": "https://github.com/corona-warn-app",
+                "icon": "github",
+                "external": true
+            }
+        }
     }
 }
