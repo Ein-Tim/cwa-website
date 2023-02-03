@@ -4,6 +4,14 @@
         "name": "favicon",
         "include": "all"
     },
+    "whohelps": {
+        "en": {
+            "text": "IMPORTANT NOTICE: Following the shut down of the app on xx.xx.xxxx this website has been updated to only include information & features which are still relevant."
+        },
+        "de": {
+            "text": "WICHTIGER HINWEIS: Nach der Abschaltung der App am xx.xx.xxxx wurde diese Website aktualisiert und enthält nur noch Informationen und Funktionen, die weiterhin relevant sind."
+        }
+    },
     "screenshots": {
         "anchorText": {
             "de": "Link zu dieser Sektion",
