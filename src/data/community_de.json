@@ -1,18 +1,16 @@
 {
     "section-main": {
         "headline": {
-            "title": "Los geht's",
+            "title": "Die Community der Corona-Warn-App",
             "textblock": [
-                "Willkommen in der Corona-Warn-App-Community!",
-                "Wenn Du mehr darüber erfahren möchtest, wie Du bei uns mitmachen kannst, bist Du hier genau richtig. Nachfolgend findest Du Infos, wie Du bei uns mitarbeiten und zum Code und der Dokumentation der Corona-Warn-App beitragen kannst.",
-                "Du kannst uns auch auf Twitter und Instagram <a href='/de/community/#socialmedia'>folgen</a>, Dich über die neusten Entwicklungen informieren und Dich mit den anderen Followern unterhalten.",
-                "Los geht`s!"
+                "Die Community der Corona-Warn-App hat die Entwicklung des CWA-Projektes von Anfang an bis zur Einstellung der App begleitet.",
+                "Dabei hat die Community aber nicht einfach nur zugeschaut, sondern auch kräftig mitgeholfen und damit der App zum Erfolg verholfen! Vielen Dank an alle, die mitgemacht haben, der nächste Absatz ist für euch!"
             ]
         },
         "content": {
             "headline": {
-                "title": "Mitarbeit am Projekt",
-                "text": "Alle können Mitglied der Projekt-Community werden. Wir rufen alle Interessierten auf, mitzumachen und Teil der Entwickler-Community zu werden. Es gibt verschiedene Möglichkeiten mitzuarbeiten."
+                "title": "#CWACommunity",
+                "text": "Liebe Community-Mitglieder, danke für eure Unterstützung bei der Entwicklung der Corona-Warn-App! Ihr habt, gemeinsam mit dem Projektteam, viel geschafft und dabei für alle Nutzer der App immer das Beste rausgeholt!"
             },
             "simple-list": {
                 "image": {
@@ -20,110 +18,66 @@
                     "right": true,
                     "alt": ""
                 },
-                "title": "Richtlinien zur Beteiligung",
-                "text": "Alle Mitglieder der Projekt-Community müssen sich an den 'Contributor Covenant', Version 2.0, halten. Nur wenn wir uns gegenseitig respektieren, können wir produktiv in der Community zusammenarbeiten. Unsere speziellen Richtlinien kannst Du im <a href='https://github.com/corona-warn-app/cwa-documentation/blob/main/CODE_OF_CONDUCT.md' target='_blank' rel='noopener noreferrer' title=''>Code of Conduct</a> nachlesen."
+                "title": "Eure Stories",
+                "text": "Platzhalter. Hier wäre es richtig cool, wenn die Community Beiträge liefern kann und diese dann, gemeinsam mit den Namen der Community Mitglieder, hier erscheinen würden. Ums Kuratieren könnte ich mich kümmern!"
             }
         }
     },
     "section-contribute-listing": {
         "headline": {
-            "title": "Mitarbeit am Projekt",
-            "sub-headline": "Du kannst einen Pull Request in GitHub senden.",
-            "text": "Für jeden Beitrag gilt ganz allgemein: Bitte mache so viele Angaben wie möglich, um die Zusammenarbeit zu erleichtern und halte Dich dabei an die Anleitungen in der CONTRIBUTING.md Datei des jeweiligen Repository. Wenn Du einen Pull Request anlegst, gehe nach der Pull-Request-Checkliste in der entsprechenden CONTRIBUTING.md Datei vor, damit umgehend Reviews erfolgen können. Wenn Du intensiver mitarbeiten möchtest, schreibe uns eine <a href='corona-warn-app.opensource...sap...com' class='email' title=''>E-Mail</a>. So vermeiden wir unnötige Arbeiten und bekommen alle wertvolle Anregungen."
+            "title": "Arbeit der Community",
+            "text": "Die Communtiy hat die verschiedensten Aufgaben bei der Projektentwicklung übernommen. Community Mitglieder haben zum Beispiel in den nachfolgenden Bereichen der Entwicklung geholfen."
         },
         "content": {
-            "sub-headline": "Wenn Du zum ersten Mal mitmachst, gehe wie nachfolgend beschrieben vor:",
             "feature-list": [{
                 "image": {
                     "title": "",
                     "url": "/assets/img/icons/issue.svg",
                     "alt": ""
                 },
-                "title": "An einem 'Issue' arbeiten",
-                "text": "Wenn Du ein Issue übernehmen möchtest, lege zunächst auf GitHub einen Kommentar dazu an mit der Info, dass Du daran arbeiten möchtest."
+                "title": "Arbeit an 'Issues'",
+                "text": "In sog. 'Issues' wurden auf der Entwicklungsplattform GitHub Fehler in der App oder Verbesserungsvorschläge von der Community gemeldet."
             },{
                 "image": {
                     "title": "",
                     "url": "/assets/img/icons/questions.svg",
                     "alt": ""
                 },
-                "title": "Eine Frage stellen",
-                "text": "Um einen Punkt zu klären, schreibe einfach einen Kommentar dazu. Jemand aus der Gruppe der verantwortlichen Personen wird darauf antworten."
+                "title": "Fragen stellen",
+                "text": "Manchmal blieben trotz Dokumentation und FAQs noch Fragen offen. Diese konnte die Community unkompliziert auf GitHub stellen und erhielt vom Projektteam Antworten."
             },{
                 "image": {
                     "title": "",
                     "url": "/assets/img/icons/documentation.svg",
                     "alt": ""
                 },
-                "title": "Code oder Dokumentation beitragen",
-                "text": "Um einen Fehler zu beheben oder eine neue Funktion zu implementieren, muss der Beitrag unter <a href='https://github.com/corona-warn-app/cwa-documentation/blob/main/LICENSE' target='_blank' rel='noopener noreferrer'>Apache 2.0 License</a> lizensiert sein."
-            },{
-                "image": {
-                    "title": "",
-                    "url": "/assets/img/icons/improvement.svg",
-                    "alt": ""
-                },
-                "title": "Eine einfache Korrektur oder eine Verbesserung melden",
-                "text": "Lege einen Pull Request an, in dem Du eine für den Code verantwortliche Person im entsprechenden Repository ansprichst (siehe z.&nbsp;B. die der Dokumentations-Repo <a href='https://github.com/corona-warn-app/cwa-documentation/blob/main/CODEOWNERS' target='_blank' rel='noopener noreferrer' title='Code Owners'>Code Owners</a>)."
-            },{
-                "image": {
-                    "title": "",
-                    "url": "/assets/img/icons/security.svg",
-                    "alt": ""
-                },
-                "title": "Ein wesentliches Sicherheitsrisiko melden",
-                "text": "Folge hierbei dem in der Sicherheitsrichtlinie beschriebenen Prozess. Die Richtlinie kann über die Registerkarte Security im jeweiligen Entwicklungs-Repository abgerufen werden."
-            }]
-        },
-        "text": "Mache bei allen oben genannten Aktivitäten so viele Angaben wie möglich. Beachte bitte in jedem Fall die speziellen Anleitungen zur Mitarbeit im jeweiligen Repository.",
-        "box": {
-            "class": "wide",
-            "image": {
-                "url": "/assets/img/icons/improvement.svg",
-                "title": "",
-                "alt": ""
-            },
-            "content": {
-                "title": "Du möchtest eine technisch detaillierte Rückmeldung geben?",
-                "text": "Im <a href='../faq' target='_blank'>FAQ</a> findest Du neben Antworten zu häufig gestellten Fragen auch Informationen darüber, wie Du uns mit Deinem jeweiligen Anliegen erreichen kannst."
+                "title": "Code beitragen",
+                "text": "Die Community hat sich, gemeinsam mit dem Projektteam, um die Beseitigung von bekannten Fehlern & der Implementierung von neuen Funktionen gekümmert!"
             }
-        },
-        "box2": {
-            "class": "wide",
-            "image": {
-                "url": "/assets/img/ideas.svg",
-                "title": "",
-                "alt": ""
-            },
-            "content": {
-                "title": "Willst Du Dich mehr einbringen?",
-                "text": "Falls Du Dich noch mehr einbringen möchtest, schicke uns bitte eine <a href='corona-warn-app.opensource...sap...com' class='email' target='_blank' rel='noopener noreferrer' title=''>E-Mail</a>. Wir freuen uns auf alle neuen Ideen!"
-            }
-        }
-    },
-    "section-start-contribute": {
-        "headline": {
-            "title": "Jetzt mitmachen!",
-            "button": {
-                "title": "Hier geht's zu GitHub",
-                "url": "https://github.com/corona-warn-app",
-                "icon": "github",
-                "external": true
-            }
+            ]
         }
     },
     "section-social-media": {
         "title": "Social Media",
         "anchor": "socialmedia",
-        "textblock": ["Die wichtigsten Informationen zur Corona-Warn-App, zu ihren Funktionen und ihrer Entwicklung findet Ihr auch in den sozialen Medien."],
+        "textblock": ["Die wichtigsten Informationen zur Corona-Warn-App, zu ihren Funktionen und ihrer Entwicklung gab es auch in den sozialen Medien."],
         "socialmedia": [{
             "title": "Twitter",
-            "textblock": ["Die Corona-Warn-App hat einen eigenen <a href='https://twitter.com/coronawarnapp' target='_blank' rel='noopener noreferrer'>Twitter-Account</a>. Dort informieren wir Euch regelmäßig über Kennzahlen, Updates und neue Features. Außerdem könnt Ihr bei Umfragen mitmachen und mit den anderen Followern über die Corona-Warn-App diskutieren."
-            ,"Folgt dem Account, werdet ein Teil der Twitter-Community und helft uns, die App noch bekannter und besser zu machen."]
+            "textblock": ["Die Corona-Warn-App hatte einen eigenen <a href='https://twitter.com/coronawarnapp' target='_blank' rel='noopener noreferrer'>Twitter-Account</a>. Dort wurde die Community regelmäßig über Kennzahlen, Updates und neue Features der App informiert."]
         },
         {
             "title": "Instagram",
-            "textblock": ["Bei <a href='https://www.instagram.com/rki_fuer_euch/' target='_blank' rel='noopener noreferrer'>RKI für Euch</a> auf Instagram findet Ihr Wissenswertes über das Robert Koch-Institut, über die Entwicklung der Pandemie und über die Corona-Warn-App."]
+            "textblock": ["Der Instagram Account <a href='https://www.instagram.com/rki_fuer_euch/' target='_blank' rel='noopener noreferrer'>RKI für Euch</a> informierte neben anderen Themen auch über die Corona-Warn-App."]
         }]
+    },
+    "section-start-contribute": {
+        "headline": {
+        "button": {
+            "title": "Projekt auf GitHub",
+            "url": "https://github.com/corona-warn-app",
+            "icon": "github",
+            "external": true
+            }
+        }
     }
 }
