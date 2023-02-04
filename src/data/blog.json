@@ -2,7 +2,7 @@
   "en": {
     "headline": {
       "title": "Blog",
-      "text": "All important information about the development of the Corona-Warn-App. Further information can be found in the <a href='/en/faq'>frequently asked questions about the Corona-Warn-App.</a>"
+      "text": "All important information about the development of the Corona-Warn-App was shared here. Following the shutdown of the app on xx.xx.xxxx this page has been <b>frozen</b> and the listed blogs are <b>no longer updated</b>. Further information can be found in the <a href='/en/faq'>frequently asked questions about the Corona-Warn-App.</a>"
     },
     "search": {
         "blog-posts": "Blog posts",
@@ -41,7 +41,7 @@
   "de": {
     "headline": {
       "title": "Blog",
-      "text": "Alle wichtigen Informationen zur Entwicklungsarbeit an der Corona-Warn-App. Weitere Informationen finden sie in den <a href='/de/faq'>Häufig gestellte Fragen zur Corona-Warn-App.</a>"
+      "text": "Hier wurden alle wichtigen Informationen zur Entwicklungsarbeit an der Corona-Warn-App geteilt. Mit der Einstellung der App am xx.xx.xxxx wurde diese Seite <b>eingefroren</b> und die gelisteten Blogs werden <b>nicht mehr verändert</b>. Weitere Informationen finden sie in den <a href='/de/faq'>Häufig gestellte Fragen zur Corona-Warn-App.</a>"
     },
     "search": {
         "blog-posts": "Blogeinträge",
