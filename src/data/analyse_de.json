@@ -8,7 +8,7 @@
     "info": "Wie regelmäßig werden die CWA Dashboarddaten aktualisiert?",
     "updateNoticeIcon": {
         "title": "Aktualisierung der Daten",
-        "content": "Die Daten des CWA-Dashboards werden in der Regel täglich um 10:30 (MEZ) für den Vortag aktualisiert. Die Daten zu den Downloads werden nur arbeitstäglich aktualisiert. Montags werden die Daten für Freitag, Samstag und Sonntag aktualisiert."
+        "content": "Die Daten dieses Dashboards wurden am xx.xx.xxxx das letzte Mal aktualisiert, da die App eingestellt wurde. Davor wurden die Daten des CWA-Dashboards in der Regel täglich um 10:30 (MEZ) für den Vortag aktualisiert. Die Daten zu den Downloads wurden nur arbeitstäglich aktualisiert. Montags wurden die Daten für Freitag, Samstag und Sonntag aktualisiert."
     },
     "range":{
         "picker": {
