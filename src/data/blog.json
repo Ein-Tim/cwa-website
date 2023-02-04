@@ -41,7 +41,7 @@
   "de": {
     "headline": {
       "title": "Blog",
-      "text": "Alle wichtigen Informationen zur Entwicklungsarbeit an der Corona-Warn-App. Weitere Informationen finden sie unter <a href='/de/faq'>Häufig gestellte Fragen zur Corona-Warn-App.</a>"
+      "text": "Alle wichtigen Informationen zur Entwicklungsarbeit an der Corona-Warn-App. Weitere Informationen finden sie in den <a href='/de/faq'>Häufig gestellte Fragen zur Corona-Warn-App.</a>"
     },
     "search": {
         "blog-posts": "Blogeinträge",
