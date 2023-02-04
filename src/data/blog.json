@@ -41,7 +41,7 @@
   "de": {
     "headline": {
       "title": "Blog",
-      "text": "Hier wurden alle wichtigen Informationen zur Entwicklungsarbeit an der Corona-Warn-App geteilt. Mit der Einstellung der App am xx.xx.xxxx wurde diese Seite <b>eingefroren</b> und die gelisteten Blogs werden <b>nicht mehr verändert</b>. Weitere Informationen finden sie in den <a href='/de/faq'>Häufig gestellte Fragen zur Corona-Warn-App.</a>"
+      "text": "Hier wurden alle wichtigen Informationen zur Entwicklungsarbeit an der Corona-Warn-App geteilt. Mit der Einstellung der App am xx.xx.xxxx wurde diese Seite <b>eingefroren</b> und die gelisteten Blogs werden <b>nicht mehr verändert</b>. Weitere Informationen finden Sie in den <a href='/de/faq'>Häufig gestellte Fragen zur Corona-Warn-App.</a>"
     },
     "search": {
         "blog-posts": "Blogeinträge",
