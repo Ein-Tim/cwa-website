@@ -3,7 +3,7 @@
         "headline": {
             "title": "How do I use the official Corona-Warn-App QR code tool?"
         },
-        "intro": "This step-by-step guide will help you to create QR codes one by one or several QR codes at once.",
+        "intro": "<b>IMPORTANT NOTE: The tool for creating QR codes for the check-in feature of the Corona-Warn-App is deprecated following the sutdown of the app on xx.xx.xxxx and is no longer officially supported! This guide will no longer be updated.</b><br><br>This step-by-step guide will help you to create QR codes one by one or several QR codes at once.",
         "step1": {
             "title": "<b>Step 1: Installing node.js on your Windows PC</b>",
             "text": "Open the website <a href='https://nodejs.org/en/'>https://nodejs.org/en/</a>, download the 'LTS version', and install it after successful download.",
