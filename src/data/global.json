@@ -58,6 +58,11 @@
             },
             "nav": [
                 {
+                    "id": "eventregistration",
+                    "title": "Event QR-Code",
+                    "url": "/en/eventregistration/"
+                },
+                {
                     "id": "community",
                     "title": "Community",
                     "url": "/en/community/"
@@ -76,6 +81,11 @@
                     "id": "analysis",
                     "title": "Dashboard",
                     "url": "/en/analysis/"
+                },
+                {
+                    "id": "screenshots",
+                    "title": "Screenshots",
+                    "url": "/en/screenshots/"
                 },
                 {
                     "id": "faq",
@@ -235,6 +245,11 @@
             },
             "nav": [
                 {
+                    "id": "eventregistration",
+                    "title": "Event QR-Code",
+                    "url": "/de/eventregistration/"
+                },
+                {
                     "id": "community",
                     "title": "Community",
                     "url": "/de/community/"
@@ -253,6 +268,11 @@
                     "id": "analysis",
                     "title": "Dashboard",
                     "url": "/de/analysis/"
+                },
+                {
+                    "id": "screenshots",
+                    "title": "Screenshots",
+                    "url": "/de/screenshots/"
                 },
                 {
                     "id": "faq",
