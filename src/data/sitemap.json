@@ -10,6 +10,14 @@
             "url": "/en/",
             "children": [
                 {
+                    "name": "Event-QR-Code",
+                    "url": "/en/eventregistration/"
+                },
+                {
+                    "name": "Event-QR-Code guide",
+                    "url": "/en/event-qr-code-guide/"
+                },
+                {
                     "name": "Community",
                     "url": "/en/community/"
                 },
@@ -24,6 +32,10 @@
                 {
                     "name": "Dashboard",
                     "url": "/en/analysis/"
+                },
+                {
+                    "name": "Screenshots",
+                    "url": "/en/screenshots/"
                 },
                 {
                     "name": "FAQ",
