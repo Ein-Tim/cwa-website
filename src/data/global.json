@@ -60,7 +60,8 @@
                 {
                     "id": "eventregistration",
                     "title": "Event QR-Code",
-                    "url": "/en/eventregistration/"
+                    "url": "/en/eventregistration/",
+                    "disabled": true
                 },
                 {
                     "id": "community",
@@ -85,7 +86,8 @@
                 {
                     "id": "screenshots",
                     "title": "Screenshots",
-                    "url": "/en/screenshots/"
+                    "url": "/en/screenshots/",
+                    "disabled": true
                 },
                 {
                     "id": "faq",
@@ -247,7 +249,8 @@
                 {
                     "id": "eventregistration",
                     "title": "Event QR-Code",
-                    "url": "/de/eventregistration/"
+                    "url": "/de/eventregistration/",
+                    "disabled": true
                 },
                 {
                     "id": "community",
@@ -272,7 +275,8 @@
                 {
                     "id": "screenshots",
                     "title": "Screenshots",
-                    "url": "/de/screenshots/"
+                    "url": "/de/screenshots/",
+                    "disabled": true
                 },
                 {
                     "id": "faq",
