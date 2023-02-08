@@ -1,6 +1,7 @@
 {{#unless item.deactivated}}
 <li class="nav-item">
     <a href="{{item.url}}" class="nav-link
+        {{#if item.disabled}} disabled{{/if}}
         {{#unless item.external}}
         {{#ifequal @root.page-name item.id}} active{{/ifequal}}
         {{#ifequal item.id 'science'}}{{#ifsciencedetail}} active{{/ifsciencedetail}}{{/ifequal}}
