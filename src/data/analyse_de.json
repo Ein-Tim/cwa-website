@@ -23,16 +23,16 @@
         },
         "radio": [
             {
-                "label": "Letzte 28 Tage",
+                "label": "Letzten verfügbaren 28 Tage",
                 "value": "1month",
                 "active": true
             },
             {
-                "label": "Letzte 6 Monate",
+                "label": "Letzte verfügbare 6 Monate",
                 "value": "6months"
             },
             {
-                "label": "Gesamter Zeitraum",
+                "label": "Gesamter verfügbarer Zeitraum",
                 "value": "all"
             }
         ]
