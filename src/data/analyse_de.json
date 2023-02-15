@@ -23,7 +23,7 @@
         },
         "radio": [
             {
-                "label": "Letzten verfügbaren 28 Tage",
+                "label": "Letzte verfügbare 28 Tage",
                 "value": "1month",
                 "active": true
             },
